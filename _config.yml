@@ -29,4 +29,4 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
-  - redcarpet
+#   - redcarpet
